@@ -6,5 +6,5 @@
 - Currently my git looks like:
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choudhary314)](https://github.com/anuraghazra/github-readme-stats)
 - 📫 How to find me: 
-  - :office: [LinkedIn](https://www.linkedin.com/in/tarunchoudhary7/)
+   :office: [LinkedIn](https://www.linkedin.com/in/tarunchoudhary7/)
   
