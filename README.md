@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :zap: A Solutions Architect who: Is a geek at heart! Loves to automate! Loves to play with new RE tools! Always up for learning new tech! 
-- 🌱 Currently on a jo urney to better understand platform orchrestration and DevOPS/RE tools
+- 🌱 Currently on a journey to better understand platform orchrestration and DevOPS/RE tools
 - :earth_africa: Love to play with raspberry-pis and containers
   - :right_anger_bubble: Currently hasve a home lab running:
     - A Squid transparent proxy
