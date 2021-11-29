@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :zap: An Engineer who loves to automate! Loves to play with new RE tools! Always up for learning new tech! 
-- 🌱 Currently on a journey to better understand platform orchrestration and DevOPS/RE tools
+- 🌱 On a journey to improve my platform orchrestration and DevOPS/RE skills
 - :earth_africa: Love to play with raspberry-pis and containers
   - :right_anger_bubble: Currently hasve a home lab running:
     - A Squid transparent proxy
