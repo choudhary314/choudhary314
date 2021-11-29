@@ -7,10 +7,9 @@
     - A Squid transparent proxy
     - A VPN back into my home network
     - A HA reverse proxy and web loadbalancer
-    - A fun website [news.vatave.com](https://www.news.vatave.com) 
-    - A kubernetes cluster
+    - A Kubernetes cluster
     - A Nagios Core monitoring server
-    - A grapahan daskboard
+    - A Grapahan dashboard
     - A Elastic server
     - And more is in works
 
@@ -18,7 +17,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/tarunchoudhary7/)
 
 - Projects
-  - Finance and Crypto News Webpage: [Smart News](https://news.vatave.com)
+  - Finance and Crypto News Webpage: [Smart News](https://news.vatave.com) [Work in Progress, Fronend Needs a facelift]
     - Repo : https://github.com/choudhary314/smart-news 
     - Infrastructure
       - Hosted on my home lab server
