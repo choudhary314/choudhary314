@@ -3,13 +3,13 @@
 - :zap: An Engineer who loves to automate! Loves to play with new tech and tools! Always up for learning something new and exciting! 
 - 🌱 On a journey to improve my platform orchrestration and DevOPS/RE skills
 - :earth_africa: Love to play with raspberry-pis and containers
-  - :right_anger_bubble: Currently hasve a home lab running:
+  - :right_anger_bubble: Currently have a home lab running:
     - A Squid transparent proxy
     - A VPN back into my home network
     - A HA reverse proxy and web loadbalancer
     - A Kubernetes cluster
     - A Nagios Core monitoring server
-    - A Grapahan dashboard
+    - A Graphana dashboard
     - A Elastic server
     - And more is in works
 
