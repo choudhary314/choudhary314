@@ -16,4 +16,16 @@
 
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/tarunchoudhary7/)
-  
+
+- Projects
+  - Finance and Crypto News Webpage: [Smart News](https://news.vatave.com)
+    - Repo : https://github.com/choudhary314/smart-news 
+    - Infrastructure
+      - Hosted on my home network
+      - Load balanced behing a HA reverse proxy
+      - Running on a LXD container (redundant pairs)
+    - Feature roadmap
+      - Sentimental Analysis
+      - Ticker Prices
+      - Personalized Views
+      - Currently the trigger search words are controlled by https://github.com/choudhary314/smart-news/blob/master/triggers.csv and https://github.com/choudhary314/smart-news/blob/master/triggers-crypto.csv
