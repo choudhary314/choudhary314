@@ -17,7 +17,7 @@
   - :office: [LinkedIn](https://www.linkedin.com/in/tarunchoudhary7/)
 
 - Projects
-  - Finance and Crypto News Webpage: [Smart News](https://news.vatave.com) [Work in Progress, Fronend Needs a facelift]
+  - Finance and Crypto News Webpage: [Smart News](https://news.vatave.com) [Work in Progress, Frontend Needs a facelift]
     - Repo : https://github.com/choudhary314/smart-news 
     - Infrastructure
       - Hosted on my home lab server
