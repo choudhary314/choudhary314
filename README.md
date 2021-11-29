@@ -21,7 +21,7 @@
   - Finance and Crypto News Webpage: [Smart News](https://news.vatave.com)
     - Repo : https://github.com/choudhary314/smart-news 
     - Infrastructure
-      - Hosted on my home network
+      - Hosted on my home lab server
       - Load balanced behing a HA reverse proxy
       - Running on a LXD container (redundant pairs)
     - Feature roadmap
