@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- :zap: An Engineer who loves to automate! Loves to play with new tech and tools! Always up for learning something new and exciting! 
+- :zap: An Engineer who loves to automate. Loves to play with new tech and tools. Always up for learning something new and exciting! 
 - 🌱 On a journey to improve my platform orchrestration, collaboration platforms and DevOPS/RE skills
 - :earth_africa: Love to play with raspberry-pis and containers
   - :right_anger_bubble: Currently have a home lab running:
