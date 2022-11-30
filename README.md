@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-- :zap: An Engineer who loves to automate. Loves to play with new tech and tools. Always up for learning something new and exciting! 
-- 🌱 On a journey to improve my platform orchrestration, collaboration platforms and DevOPS/RE skills
-- :earth_africa: Love to play with raspberry-pis and containers
-
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/tarunchoudhary7/)
 
